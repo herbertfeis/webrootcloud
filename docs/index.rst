@@ -1,8 +1,13 @@
 How Do I Install Webroot Using Webroot.com/safe from SecureAnywhere Download & Activate?
 =========================================================================================
 
-Are you ready to install Webroot antivirus software on your device but wondering where to begin? Whether you're a first-time user or reinstalling the software, the process begins at one trusted source — `Webroot.com/safe <https://www.webroot.com/safe>`_. This is the official site for **Webroot SecureAnywhere download**, activation, and installation.
+Are you ready to install Webroot antivirus software on your device but wondering where to begin? Whether you're a first-time user or reinstalling the software, the process begins at one trusted source — Webroot.com/safe. This is the official site for **Webroot SecureAnywhere download**, activation, and installation.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://webrootdesk.hostlink.click" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
 In this guide, we’ll walk you through the complete installation steps, from accessing **Webroot.com/safe**, downloading the SecureAnywhere setup, entering your keycode, and fully activating the protection. If you're searching for a way to secure your device fast and effectively, this guide has you covered.
 
 Let’s get started by exploring how to use **Webroot.com/safe** for a successful antivirus setup.
